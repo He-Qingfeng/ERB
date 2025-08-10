@@ -1,3 +1,10 @@
+**“酷吏榜”是一个记录中共走狗酷吏所犯恶行的开源仓库，本仓库按“省～市～县～部门”设置目录，欢迎各位勇士将走狗酷吏们的信息发布至“酷吏榜”，让它们的恶行永远的被记录在案。**
+**协作规范：**
+1、参考四川省～绵阳市～江油市～公安局～陈震，以此为规范；
+2、酷吏属于某县市区某部门的，即在该目录中以酷吏名字创建文件夹；
+3、将酷吏的照片、视频等上传至文件夹，并完善“geren.json”文件中的个人信息；
+4、有更好的想法的，欢迎加入我们联邦社区，共同探讨。
+
 # 目录
 
 <details>
@@ -107,77 +114,6 @@
  - <span style='font-size:16px'>[铜梁区](重庆市/铜梁区)</span>
  - <span style='font-size:16px'>[长寿区](重庆市/长寿区)</span>
  - <span style='font-size:16px'>[黔江区](重庆市/黔江区)</span>
-
-</details>
-
-<details>
-<summary><span style='font-size:20px;font-weight:bold'>.git</span></summary>
-
- <details>
- <summary><span style='font-size:16px'>branches</span></summary>
-
-
- </details>
- <details>
- <summary><span style='font-size:16px'>hooks</span></summary>
-
-
- </details>
- <details>
- <summary><span style='font-size:16px'>info</span></summary>
-
-
- </details>
- <details>
- <summary><span style='font-size:16px'>logs</span></summary>
-
-  - <span style='font-size:14px'>[refs](.git/logs/refs)</span>
-
- </details>
- <details>
- <summary><span style='font-size:16px'>objects</span></summary>
-
-  - <span style='font-size:14px'>[00](.git/objects/00)</span>
-  - <span style='font-size:14px'>[03](.git/objects/03)</span>
-  - <span style='font-size:14px'>[05](.git/objects/05)</span>
-  - <span style='font-size:14px'>[18](.git/objects/18)</span>
-  - <span style='font-size:14px'>[25](.git/objects/25)</span>
-  - <span style='font-size:14px'>[2f](.git/objects/2f)</span>
-  - <span style='font-size:14px'>[40](.git/objects/40)</span>
-  - <span style='font-size:14px'>[51](.git/objects/51)</span>
-  - <span style='font-size:14px'>[54](.git/objects/54)</span>
-  - <span style='font-size:14px'>[5f](.git/objects/5f)</span>
-  - <span style='font-size:14px'>[61](.git/objects/61)</span>
-  - <span style='font-size:14px'>[62](.git/objects/62)</span>
-  - <span style='font-size:14px'>[63](.git/objects/63)</span>
-  - <span style='font-size:14px'>[78](.git/objects/78)</span>
-  - <span style='font-size:14px'>[8b](.git/objects/8b)</span>
-  - <span style='font-size:14px'>[8c](.git/objects/8c)</span>
-  - <span style='font-size:14px'>[93](.git/objects/93)</span>
-  - <span style='font-size:14px'>[99](.git/objects/99)</span>
-  - <span style='font-size:14px'>[9a](.git/objects/9a)</span>
-  - <span style='font-size:14px'>[a6](.git/objects/a6)</span>
-  - <span style='font-size:14px'>[ae](.git/objects/ae)</span>
-  - <span style='font-size:14px'>[b3](.git/objects/b3)</span>
-  - <span style='font-size:14px'>[d0](.git/objects/d0)</span>
-  - <span style='font-size:14px'>[d4](.git/objects/d4)</span>
-  - <span style='font-size:14px'>[e1](.git/objects/e1)</span>
-  - <span style='font-size:14px'>[e3](.git/objects/e3)</span>
-  - <span style='font-size:14px'>[e9](.git/objects/e9)</span>
-  - <span style='font-size:14px'>[ee](.git/objects/ee)</span>
-  - <span style='font-size:14px'>[f7](.git/objects/f7)</span>
-  - <span style='font-size:14px'>[info](.git/objects/info)</span>
-  - <span style='font-size:14px'>[pack](.git/objects/pack)</span>
-
- </details>
- <details>
- <summary><span style='font-size:16px'>refs</span></summary>
-
-  - <span style='font-size:14px'>[heads](.git/refs/heads)</span>
-  - <span style='font-size:14px'>[remotes](.git/refs/remotes)</span>
-  - <span style='font-size:14px'>[tags](.git/refs/tags)</span>
-
- </details>
 
 </details>
 
